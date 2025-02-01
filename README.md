@@ -1,6 +1,6 @@
 
 ### **📌 Data Science Internship Assignment - Customer Segmentation**  
-📂 **Repository Name:** `FatimaRuhul - Third Task Completed`  
+📂 **Repository Name:** `FatimaRuhul - Zeotap-DataScience-Assignment`  
 👩‍💻 **Author:** Ruhul Fatima Abdi  
 📅 **Last Updated:** 01/02/2025 
 
