@@ -13,7 +13,7 @@ The dataset contains customer transactions and product details, and the analysis
 
 ## **📌 Project Structure**
 ```
-📦 Third Task Completed
+📦 Zeotap-DataScience-Assignment
  ┣ 📜 Customers.csv                        # Customer dataset
  ┣ 📜 Products.csv                         # Product dataset
  ┣ 📜 Transactions.csv                     # Transaction dataset
