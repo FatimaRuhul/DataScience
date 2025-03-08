@@ -1,19 +1,19 @@
 
-### **📌 Data Science Internship Assignment - Customer Segmentation**  
-📂 **Repository Name:** `FatimaRuhul - Zeotap-DataScience-Assignment`  
+### **📌 Data Science - Customer Segmentation**  
+📂 **Repository Name:** `FatimaRuhul - DataScience`  
 👩‍💻 **Author:** Ruhul Fatima Abdi  
 📅 **Last Updated:** 01/02/2025 
 
 
 ## **📌 Overview**
-This repository contains my **Data Science Internship Assignment**, where I implemented **Customer Segmentation** using **K-Means Clustering**. The project includes **Exploratory Data Analysis (EDA)**, **Lookalike Modeling**, and **Clustering Optimization**.
+I implemented **Customer Segmentation** using **K-Means Clustering**. The project includes **Exploratory Data Analysis (EDA)**, **Lookalike Modeling**, and **Clustering Optimization**.
 
 The dataset contains customer transactions and product details, and the analysis aims to provide **business insights** by segmenting customers based on their purchasing behavior.
 
 
 ## **📌 Project Structure**
 ```
-📦 Zeotap-DataScience-Assignment
+📦 DataScience
  ┣ 📜 Customers.csv                        # Customer dataset
  ┣ 📜 Products.csv                         # Product dataset
  ┣ 📜 Transactions.csv                     # Transaction dataset
@@ -66,8 +66,8 @@ The dataset contains customer transactions and product details, and the analysis
 ## **📌 How to Use**
 1. Clone this repository:  
    ```
-   git clone https://github.com/FatimaRuhul/Zeotap-DataScience-Assignment.git
-   cd Zeotap-DataScience-Assignment
+   git clone https://github.com/FatimaRuhul/DataScience.git
+   cd DataScience
    ```
 2. Open Jupyter Notebook and run:
    ```
